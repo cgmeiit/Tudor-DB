@@ -1,0 +1,50 @@
+﻿@model TutorDB.Models.Sessions
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Sessions</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Curriculum.CurricName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Curriculum.CurricName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tutor.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tutor.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SessionTopic)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SessionTopic)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.SessionsId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

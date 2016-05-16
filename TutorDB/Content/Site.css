@@ -1,0 +1,62 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.jumbo1 {
+    background-image: url('Image/WCCIT-logo-notag-600.png');
+    background-size: cover;
+}
+    
+.mainpic {
+   
+    background-image: url('Image/Header.jpg');
+    padding-right: 15px;
+    background-size: cover;
+    min-height: 400px;
+    
+    
+}
+.vertical-center{
+    align-items:center;
+    display:flex;
+    min-height:348px;
+
+}
+.overlay {
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    background: #084610;
+    opacity: .8;
+    color: #fff;
+    width: 50%;
+    font-family: 'Segoe Script';
+}
+.img-circle{{
+    border-radius: 50%;
+}
+.img-rounded {
+  border-radius: 6px;
+   
+    
+
+
+.body-content {
+    padding-left: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}

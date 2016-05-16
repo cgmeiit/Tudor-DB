@@ -1,0 +1,39 @@
+﻿@model IEnumerable<TutorDB.Models.Curriculums>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Curriculum</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CurricName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CurricAuthor)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CurricName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CurricAuthor)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CurricId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CurricId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CurricId })
+        </td>
+    </tr>
+}
+
+</table>

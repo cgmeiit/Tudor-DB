@@ -1,0 +1,114 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\ApplicationInsights.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\roslyn\csc.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\roslyn\System.Collections.Immutable.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\roslyn\vbc.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\roslyn\VBCSCompiler.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\roslyn\VBCSCompiler.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\TutorDB.dll.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\TutorDB.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\TutorDB.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Antlr3.Runtime.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Microsoft.AI.Web.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Microsoft.AI.WindowsServer.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Microsoft.ApplicationInsights.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Microsoft.Web.Infrastructure.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Newtonsoft.Json.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\System.Web.Helpers.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\System.Web.Mvc.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\System.Web.Optimization.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\System.Web.Razor.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\System.Web.WebPages.Deployment.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\System.Web.WebPages.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\System.Web.WebPages.Razor.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\WebGrease.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Microsoft.AI.Web.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Microsoft.AI.WindowsServer.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Microsoft.ApplicationInsights.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\System.Web.Helpers.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\System.Web.Mvc.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\System.Web.Optimization.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\System.Web.Razor.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\System.Web.WebPages.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\System.Web.WebPages.Deployment.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\System.Web.WebPages.Razor.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Antlr3.Runtime.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\Newtonsoft.Json.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\obj\Debug\TutorDB.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\obj\Debug\TutorDB.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\obj\Debug\TutorDB.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\EntityFramework.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\EntityFramework.SqlServer.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\EntityFramework.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutorDB\TutorDB\bin\EntityFramework.SqlServer.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\ApplicationInsights.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\roslyn\csc.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\roslyn\vbc.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\roslyn\VBCSCompiler.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\TutorDB.dll.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\TutorDB.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\TutorDB.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Antlr3.Runtime.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\EntityFramework.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\EntityFramework.SqlServer.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Microsoft.AI.Web.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Newtonsoft.Json.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\System.Web.Helpers.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\System.Web.Mvc.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\System.Web.Optimization.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\System.Web.Razor.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\System.Web.WebPages.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\System.Web.WebPages.Razor.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\WebGrease.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\EntityFramework.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\EntityFramework.SqlServer.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Microsoft.AI.Web.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\System.Web.Helpers.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\System.Web.Mvc.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\System.Web.Optimization.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\System.Web.Razor.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\System.Web.WebPages.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\System.Web.WebPages.Razor.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Antlr3.Runtime.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\bin\Newtonsoft.Json.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\obj\Debug\TutorDB.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\obj\Debug\TutorDB.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Final Project\TutorDB\TutorDB\obj\Debug\TutorDB.pdb
